@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DOMINQUE</Machine>
+    <WindowsUser>Dterryable</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>40284f27-4570-44aa-ba41-bf3d2a691b4c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\bin\Release\UnemploymentRate.WindowsPhone.exe">
+      <PackagePath>UnemploymentRate.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\Assets\unemployedmentback_phone.png">
+      <PackagePath>Assets\unemployedmentback_phone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\bin\Release\UnemploymentRate.WindowsPhone.xr.xml">
+      <PackagePath>UnemploymentRate.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\UnemploymentRate\UnemploymentRate\UnemploymentRate.WindowsPhone\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
